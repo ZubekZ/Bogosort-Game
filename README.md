@@ -27,3 +27,19 @@ The application features a custom 8-bit Pixel Art aesthetic and a robust Finite 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/SEU-USUARIO/bogosort-game-python.git](https://github.com/SEU-USUARIO/bogosort-game-python.git)
+
+2. Install dependencies:
+
+  ```bash
+  pip install pygame 
+   ```
+3. Run the game:
+  
+  ```bash
+  python bogosort_game.py
+  ```
+
+
+## 👨‍💻 Author
+**João Pedro da Veiga Zubek** - Computer Science Student at IFPR Focusing on Front-end Development and Creative Coding.
+
